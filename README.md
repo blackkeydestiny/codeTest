@@ -1,5 +1,7 @@
 # codeTest
-![code_test.png](./image/code_test.png)
+
+![code_test.png](https://github.com/xujians/codeTest/blob/main/image/code_test.png)
+
 ####思路
 - 在字符串中，对字符两两比较
 - 记录当前字符 currentChar
